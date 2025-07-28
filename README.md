@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **@LuoYingyi** (Yingyi Luo)
 - 👀 I’m interested in **ECE**, especially **Large Langurage models**, **Signal Processing**, **FPGA acceleration**.
 - 🌱 I’m currently learning **neural networks**, **digital communications**, and **fast ML on FPGAs (hls4ml)** for real‑time deployment.
-- 💞️ I’m looking to collaborate on **LLM**, **embedded/accelerated ML**.
+- 💞️ I’m looking to collaborate on **AI Agents**, **LLM**, **embedded/accelerated ML**.
 - 📫 How to reach me: **[yluo52@uic.edu]** · [LinkedIn](https://www.linkedin.com/in/yingyi-luo/?locale=en_US) · [Google Scholar](https://scholar.google.com/citations?user=)
