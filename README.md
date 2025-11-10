@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://luoyingyi.github.io/Yingyi-s-personal-page-/" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/globe.png" alt="personal-page" height="30" width="40" /></a>
+<a href="https://luoyingyi.github.io/Yingyi-s-personal-page-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="personal-page" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yingyi-luo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yingyi-luo" height="30" width="40" /></a>
-<a href="https://huggingface.co/Carolineyy" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-nobg.svg" alt="Carolineyy" height="30" width="40" /></a>
+<a href="https://huggingface.co/Carolineyy" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo.png" alt="Carolineyy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
